@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_pink_wool_slab",
+  "textures": {
+    "all": "steel_and_more:block/pink_wool",
+    "particle": "steel_and_more:block/pink_wool",
+    "1": "steel_and_more:block/pink_wool"
+  },
+  "render_type": "solid"
+}

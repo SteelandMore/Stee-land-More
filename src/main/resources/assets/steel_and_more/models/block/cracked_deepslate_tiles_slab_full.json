@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/cracked_deepslate_tiles",
+    "top": "steel_and_more:block/cracked_deepslate_tiles",
+    "side": "steel_and_more:block/cracked_deepslate_tiles"
+  },
+  "render_type": "solid"
+}

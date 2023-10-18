@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:jack_o_lantern"
+  },
+  "result": "steel_and_more:vertical_jack_o_lantern_slab"
+}

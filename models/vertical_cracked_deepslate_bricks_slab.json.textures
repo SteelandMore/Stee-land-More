@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cracked_deepslate_bricks"
+      },
+      "name": "default"
+    }
+  }
+}

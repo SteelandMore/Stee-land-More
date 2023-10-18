@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:prismarine_bricks"
+    },
+    "1": {
+      "item": "minecraft:prismarine_bricks"
+    },
+    "2": {
+      "item": "minecraft:prismarine_bricks"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:vertical_cut_prismarine_slab",
+    "count": 6
+  }
+}

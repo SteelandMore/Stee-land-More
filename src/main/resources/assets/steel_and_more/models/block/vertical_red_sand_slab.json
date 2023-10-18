@@ -1,0 +1,10 @@
+{
+  "parent": "steel_and_more:custom/vertical_red_sand_slab",
+  "textures": {
+    "all": "steel_and_more:block/red_sand",
+    "particle": "steel_and_more:block/red_sand",
+    "2": "steel_and_more:block/red_sand",
+    "missing": "steel_and_more:block/red_sand"
+  },
+  "render_type": "solid"
+}

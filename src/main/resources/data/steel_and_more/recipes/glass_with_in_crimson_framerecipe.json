@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:crimson_planks"
+    },
+    "3": {
+      "item": "minecraft:crimson_planks"
+    },
+    "4": {
+      "item": "minecraft:glass"
+    },
+    "5": {
+      "item": "minecraft:crimson_planks"
+    },
+    "7": {
+      "item": "minecraft:crimson_planks"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:glass_with_in_crimson_frame",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.STRIPPED_BIRCH_WOOD"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Items.BIRCH_DOOR"
+    },
+    "name": "birch_doorrecipe_3",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.STRIPPED_ACACIA_WOOD"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:VerticalAcaciaSlab"
+    },
+    "name": "vertical_acacia_slabrecipe_6",
+    "namespace": "mod"
+  }
+}

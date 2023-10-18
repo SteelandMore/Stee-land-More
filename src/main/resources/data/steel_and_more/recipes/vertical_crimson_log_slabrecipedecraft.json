@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "steel_and_more:vertical_crimson_log_slab"
+    },
+    "1": {
+      "item": "steel_and_more:vertical_crimson_log_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:crimson_stem",
+    "count": 1
+  }
+}

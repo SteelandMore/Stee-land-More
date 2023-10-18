@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:dirt_path"
+  },
+  "result": "steel_and_more:dirt_path_slab"
+}

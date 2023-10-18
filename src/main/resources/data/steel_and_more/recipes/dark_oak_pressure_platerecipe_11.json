@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "steel_and_more:stripped_dark_oak_wood_slab"
+  },
+  "result": "minecraft:dark_oak_pressure_plate"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "steel_and_more:block/coal_block"
+  },
+  "render_type": "solid"
+}

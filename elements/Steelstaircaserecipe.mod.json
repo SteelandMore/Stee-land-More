@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "steel_staircase",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:SteelBlock"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:Steelstaircase"
+    },
+    "name": "steel_staircase",
+    "namespace": "mod"
+  }
+}

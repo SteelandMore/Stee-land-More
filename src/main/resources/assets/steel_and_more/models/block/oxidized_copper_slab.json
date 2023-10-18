@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/oxidized_copper",
+    "top": "steel_and_more:block/oxidized_copper",
+    "side": "steel_and_more:block/oxidized_copper"
+  },
+  "render_type": "solid"
+}

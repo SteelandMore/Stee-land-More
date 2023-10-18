@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "steel_and_more:block/sea_lantern",
+    "top": "steel_and_more:block/sea_lantern",
+    "side": "steel_and_more:block/sea_lantern"
+  },
+  "render_type": "solid"
+}

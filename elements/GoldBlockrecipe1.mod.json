@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 9.0,
+    "cookingTime": 1600,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Blocks.RAW_GOLD_BLOCK"
+    },
+    "smeltingReturnStack": {
+      "value": "Blocks.GOLD_BLOCK"
+    },
+    "name": "gold_blockrecipe_1",
+    "namespace": "mod"
+  }
+}

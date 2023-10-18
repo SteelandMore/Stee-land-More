@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:jungle_leaves"
+  },
+  "result": "steel_and_more:vertical_jungle_leaves_slab"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/dirt",
+    "top": "steel_and_more:block/dirt",
+    "side": "steel_and_more:block/dirt"
+  },
+  "render_type": "solid"
+}

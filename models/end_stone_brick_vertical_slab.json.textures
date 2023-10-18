@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "end_stone_bricks"
+      },
+      "name": "default"
+    }
+  }
+}

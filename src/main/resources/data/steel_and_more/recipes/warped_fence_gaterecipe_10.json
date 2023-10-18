@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "steel_and_more:vertical_stripped_warped_log_slab"
+  },
+  "result": "minecraft:warped_fence_gate"
+}

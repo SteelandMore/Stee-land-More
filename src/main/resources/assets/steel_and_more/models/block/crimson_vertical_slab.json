@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/crimson_vertical_slab",
+  "textures": {
+    "all": "steel_and_more:block/crimson_planks",
+    "particle": "steel_and_more:block/crimson_planks",
+    "5": "steel_and_more:block/crimson_planks"
+  },
+  "render_type": "solid"
+}

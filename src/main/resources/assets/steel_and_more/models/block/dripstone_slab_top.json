@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "steel_and_more:block/dripstone_block",
+    "top": "steel_and_more:block/dripstone_block",
+    "side": "steel_and_more:block/dripstone_block"
+  },
+  "render_type": "solid"
+}

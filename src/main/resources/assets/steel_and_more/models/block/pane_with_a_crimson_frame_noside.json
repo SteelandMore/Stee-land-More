@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_noside",
+  "textures": {
+    "pane": "steel_and_more:block/glass_pane_with_in_crimson_frame"
+  },
+  "render_type": "cutout_mipped"
+}

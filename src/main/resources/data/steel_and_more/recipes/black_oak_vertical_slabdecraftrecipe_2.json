@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "steel_and_more:black_oak_vertical_slab"
+    },
+    {
+      "item": "steel_and_more:black_oak_vertical_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dark_oak_planks",
+    "count": 1
+  }
+}

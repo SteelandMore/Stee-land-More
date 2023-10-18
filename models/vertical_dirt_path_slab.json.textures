@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dirt_path_sidee",
+        "1": "dirt_path_top",
+        "2": "dirt"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/dark_oak_leaves",
+    "top": "steel_and_more:block/dark_oak_leaves",
+    "side": "steel_and_more:block/dark_oak_leaves"
+  },
+  "render_type": "translucent"
+}

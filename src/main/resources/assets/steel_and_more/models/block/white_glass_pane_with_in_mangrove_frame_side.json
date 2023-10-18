@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "steel_and_more:block/white_glass_pane_with_in_mangrove_frame",
+    "pane": "steel_and_more:block/white_glass_pane_with_in_mangrove_frame"
+  },
+  "render_type": "translucent"
+}

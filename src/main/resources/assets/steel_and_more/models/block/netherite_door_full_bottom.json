@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "steel_and_more:blocks/netherite_door_down",
+    "top": "steel_and_more:blocks/netherite_door_up"
+  }
+}

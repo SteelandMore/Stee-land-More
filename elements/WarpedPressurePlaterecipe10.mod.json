@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:VerticalStrippedWarpedLogSlab"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Blocks.WARPED_PRESSURE_PLATE"
+    },
+    "name": "warped_pressure_platerecipe_10",
+    "namespace": "mod"
+  }
+}

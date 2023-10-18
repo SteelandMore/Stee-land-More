@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "purpur_pillar"
+      },
+      "name": "default"
+    }
+  }
+}

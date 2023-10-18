@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "steel_and_more:jungle_wood_slab"
+  },
+  "result": "minecraft:jungle_stairs"
+}

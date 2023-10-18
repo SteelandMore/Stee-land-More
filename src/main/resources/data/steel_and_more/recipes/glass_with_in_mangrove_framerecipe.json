@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "3": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "4": {
+      "item": "minecraft:glass"
+    },
+    "5": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "7": {
+      "item": "minecraft:mangrove_planks"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:glass_with_in_mangrove_frame",
+    "count": 1
+  }
+}

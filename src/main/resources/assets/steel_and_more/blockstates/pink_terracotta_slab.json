@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "steel_and_more:block/pink_terracotta_slab"
+    },
+    "type=top": {
+      "model": "steel_and_more:block/pink_terracotta_slab_top"
+    },
+    "type=double": {
+      "model": "steel_and_more:block/pink_terracotta_slab_full"
+    }
+  }
+}

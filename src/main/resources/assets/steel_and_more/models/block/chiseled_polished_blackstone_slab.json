@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/chiseled_polished_blackstone",
+    "top": "steel_and_more:block/chiseled_polished_blackstone",
+    "side": "steel_and_more:block/chiseled_polished_blackstone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 3,
+  "ingredient": {
+    "item": "steel_and_more:glass_with_in_wared_frame"
+  },
+  "result": "steel_and_more:glass_pane_with_a_wared_frame"
+}

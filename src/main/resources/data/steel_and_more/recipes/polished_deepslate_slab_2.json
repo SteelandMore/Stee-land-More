@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "steel_and_more:polished_deepslate_slab"
+    },
+    {
+      "item": "steel_and_more:polished_deepslate_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:polished_deepslate",
+    "count": 1
+  }
+}

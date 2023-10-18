@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/dirt",
+    "top": "steel_and_more:block/podzol_top",
+    "side": "steel_and_more:block/podzol_side"
+  },
+  "render_type": "solid"
+}

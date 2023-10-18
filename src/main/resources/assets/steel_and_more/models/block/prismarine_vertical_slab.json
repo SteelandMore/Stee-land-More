@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/prismarine_vertical_slab",
+  "textures": {
+    "all": "steel_and_more:block/sans_titre",
+    "particle": "steel_and_more:block/sans_titre",
+    "1": "steel_and_more:block/sans_titre"
+  },
+  "render_type": "solid"
+}

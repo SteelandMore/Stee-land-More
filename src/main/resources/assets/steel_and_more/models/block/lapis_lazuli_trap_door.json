@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_bottom",
+  "textures": {
+    "texture": "steel_and_more:block/lapis_lazuli_trapdoor",
+    "particle": "steel_and_more:block/lapis_lazuli_trapdoor"
+  },
+  "render_type": "cutout"
+}

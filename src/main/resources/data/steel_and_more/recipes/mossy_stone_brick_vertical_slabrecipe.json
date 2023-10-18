@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:mossy_stone_brick_slab"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:mossy_stone_brick_vertical_slab",
+    "count": 1
+  }
+}

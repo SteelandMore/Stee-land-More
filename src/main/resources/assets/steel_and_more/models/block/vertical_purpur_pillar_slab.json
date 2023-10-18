@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_purpur_pillar_slab",
+  "textures": {
+    "all": "steel_and_more:block/purpur_pillar",
+    "particle": "steel_and_more:block/purpur_pillar",
+    "1": "steel_and_more:block/purpur_pillar"
+  },
+  "render_type": "solid"
+}

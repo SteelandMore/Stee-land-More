@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:DarkOakLeavesSlab"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:VerticalDarkOakLeavesSlab"
+    },
+    "name": "vertical_dark_oak_leaves_slabrecipe_2",
+    "namespace": "mod"
+  }
+}

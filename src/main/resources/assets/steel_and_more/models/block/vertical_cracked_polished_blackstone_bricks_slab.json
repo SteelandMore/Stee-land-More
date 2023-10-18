@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_cracked_polished_blackstone_bricks_slab",
+  "textures": {
+    "all": "steel_and_more:block/cracked_polished_blackstone_bricks",
+    "particle": "steel_and_more:block/cracked_polished_blackstone_bricks",
+    "2": "steel_and_more:block/cracked_polished_blackstone_bricks"
+  },
+  "render_type": "solid"
+}

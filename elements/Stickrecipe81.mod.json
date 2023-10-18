@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:VerticalAcaciaWoodSlab"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Items.STICK"
+    },
+    "name": "stickrecipe_81",
+    "namespace": "mod"
+  }
+}

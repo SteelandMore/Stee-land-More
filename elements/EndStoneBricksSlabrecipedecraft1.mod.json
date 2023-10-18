@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.END_STONE"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Blocks.END_STONE_BRICK_SLAB"
+    },
+    "name": "end_stone_bricks_slabrecipedecraft_1",
+    "namespace": "mod"
+  }
+}

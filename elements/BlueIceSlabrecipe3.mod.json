@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PackedIceSlab"
+      },
+      {
+        "value": "CUSTOM:PackedIceSlab"
+      },
+      {
+        "value": "CUSTOM:PackedIceSlab"
+      },
+      {
+        "value": "CUSTOM:PackedIceSlab"
+      },
+      {
+        "value": "CUSTOM:PackedIceSlab"
+      },
+      {
+        "value": "CUSTOM:PackedIceSlab"
+      },
+      {
+        "value": "CUSTOM:PackedIceSlab"
+      },
+      {
+        "value": "CUSTOM:PackedIceSlab"
+      },
+      {
+        "value": "CUSTOM:PackedIceSlab"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlueIceSlab"
+    },
+    "name": "blue_ice_slabrecipe_3",
+    "namespace": "mod"
+  }
+}

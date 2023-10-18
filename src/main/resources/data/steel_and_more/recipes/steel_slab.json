@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "steel_slab",
+  "count": 2,
+  "ingredient": {
+    "item": "steel_and_more:steel_block"
+  },
+  "result": "steel_and_more:steel_slab"
+}

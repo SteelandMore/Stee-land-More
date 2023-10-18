@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "steel_and_more:item/light_green_glass_pane_with_in_warped_frame"
+  },
+  "render_type": "translucent"
+}

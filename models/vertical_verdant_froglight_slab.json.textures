@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "verdant_froglight_top",
+        "4": "verdant_froglight_side"
+      },
+      "name": "default"
+    }
+  }
+}

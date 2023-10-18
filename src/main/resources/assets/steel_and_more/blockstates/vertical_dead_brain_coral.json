@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "steel_and_more:block/vertical_dead_brain_coral"
+    },
+    "facing=east": {
+      "model": "steel_and_more:block/vertical_dead_brain_coral",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "steel_and_more:block/vertical_dead_brain_coral",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "steel_and_more:block/vertical_dead_brain_coral",
+      "y": 270
+    }
+  }
+}

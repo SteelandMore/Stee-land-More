@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "melon_top",
+        "2": "melon_side"
+      },
+      "name": "default"
+    }
+  }
+}

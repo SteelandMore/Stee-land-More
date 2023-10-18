@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:light_gray_wool"
+  },
+  "result": "steel_and_more:vertical_light_gray_wool_slab"
+}

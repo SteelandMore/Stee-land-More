@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:LightGreenGlassWithInMangroveFrame"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:LightGreenGlassPanewithInMangroveFrame"
+    },
+    "name": "light_green_glass_pane_with_in_mangrove_framerecipe_1",
+    "namespace": "mod"
+  }
+}

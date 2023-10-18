@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/azalea_leaves",
+    "top": "steel_and_more:block/azalea_leaves",
+    "side": "steel_and_more:block/azalea_leaves"
+  },
+  "render_type": "translucent"
+}

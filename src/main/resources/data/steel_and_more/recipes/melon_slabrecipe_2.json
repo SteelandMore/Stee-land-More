@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "steel_and_more:vertical_melon_slab"
+  },
+  "result": "steel_and_more:melon_slab"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "steel_and_more:block/with_the_top_of_the_pillar_of_purpur_slab"
+    },
+    "type=top": {
+      "model": "steel_and_more:block/with_the_top_of_the_pillar_of_purpur_slab_top"
+    },
+    "type=double": {
+      "model": "steel_and_more:block/with_the_top_of_the_pillar_of_purpur_slab_full"
+    }
+  }
+}

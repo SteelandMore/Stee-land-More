@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "basalt_top",
+        "1": "basalt_side"
+      },
+      "name": "default"
+    }
+  }
+}

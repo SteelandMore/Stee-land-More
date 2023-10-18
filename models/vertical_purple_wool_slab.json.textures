@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "purple_wool"
+      },
+      "name": "default"
+    }
+  }
+}

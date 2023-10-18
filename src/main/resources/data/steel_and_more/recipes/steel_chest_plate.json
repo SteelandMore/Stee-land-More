@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steel_chest_plate",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "steel_and_more:steelingot"
+    },
+    "2": {
+      "item": "steel_and_more:steelingot"
+    },
+    "3": {
+      "item": "steel_and_more:steelingot"
+    },
+    "4": {
+      "item": "steel_and_more:steelingot"
+    },
+    "5": {
+      "item": "steel_and_more:steelingot"
+    },
+    "6": {
+      "item": "steel_and_more:steelingot"
+    },
+    "7": {
+      "item": "steel_and_more:steelingot"
+    },
+    "8": {
+      "item": "steel_and_more:steelingot"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:steel_armor_chestplate",
+    "count": 1
+  }
+}

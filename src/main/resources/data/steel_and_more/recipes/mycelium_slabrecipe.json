@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:mycelium"
+    },
+    "1": {
+      "item": "minecraft:mycelium"
+    },
+    "2": {
+      "item": "minecraft:mycelium"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:mycelium_slab",
+    "count": 6
+  }
+}

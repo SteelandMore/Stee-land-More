@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:gray_terracotta"
+  },
+  "result": "steel_and_more:gray_terracotta_slab"
+}

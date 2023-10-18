@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="MIT License"
+
+[[mods]]
+modId="steel_and_more"
+version="1.1.01.19.41"
+displayName="Steel and More"
+credits="Créé à l'aide du fabricant de mods MCreator - https://mcreator.net/about"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/steel-and-more"
+logoFile="logo.png"
+authors="Romain_tv20"
+description="A mod that adds items including steel."
+
+[[dependencies.steel_and_more]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

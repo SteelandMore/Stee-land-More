@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sponge"
+    },
+    "1": {
+      "item": "minecraft:sponge"
+    },
+    "2": {
+      "item": "minecraft:sponge"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:sponge_slab",
+    "count": 6
+  }
+}

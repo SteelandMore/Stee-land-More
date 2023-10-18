@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "green_concrete_powder"
+      },
+      "name": "default"
+    }
+  }
+}

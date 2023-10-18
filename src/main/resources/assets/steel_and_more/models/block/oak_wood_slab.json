@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/oak_log",
+    "top": "steel_and_more:block/oak_log",
+    "side": "steel_and_more:block/oak_log"
+  },
+  "render_type": "solid"
+}

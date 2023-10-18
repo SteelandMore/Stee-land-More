@@ -1,0 +1,38 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:GoldFence"
+      },
+      {
+        "value": "CUSTOM:CoalFence"
+      },
+      {
+        "value": "CUSTOM:RedstoneFence"
+      },
+      {
+        "value": "CUSTOM:LapisLazuliFence"
+      },
+      {
+        "value": "CUSTOM:DiamondFence"
+      },
+      {
+        "value": "CUSTOM:NetheriteFence"
+      },
+      {
+        "value": "CUSTOM:IronFence"
+      },
+      {
+        "value": "CUSTOM:SteelFence"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "fences",
+    "namespace": "minecraft"
+  }
+}

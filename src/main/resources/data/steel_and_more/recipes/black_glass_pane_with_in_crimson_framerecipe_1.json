@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 3,
+  "ingredient": {
+    "item": "steel_and_more:black_glass_with_in_crimson_frame"
+  },
+  "result": "steel_and_more:black_glass_pane_with_in_crimson_frame"
+}

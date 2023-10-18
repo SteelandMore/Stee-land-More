@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "steel_and_more:block/chiseled_nether_bricks",
+    "top": "steel_and_more:block/chiseled_nether_bricks",
+    "side": "steel_and_more:block/chiseled_nether_bricks"
+  },
+  "render_type": "solid"
+}

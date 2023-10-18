@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "item": "steel_and_more:lapislazulidoor"
+    }
+  ],
+  "result": {
+    "item": "steel_and_more:lapis_lazulidoorfull",
+    "count": 1
+  }
+}

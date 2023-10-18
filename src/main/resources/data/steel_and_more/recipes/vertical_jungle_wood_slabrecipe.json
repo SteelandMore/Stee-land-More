@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:jungle_wood"
+    },
+    "1": {
+      "item": "minecraft:jungle_wood"
+    },
+    "2": {
+      "item": "minecraft:jungle_wood"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:vertical_jungle_wood_slab",
+    "count": 6
+  }
+}

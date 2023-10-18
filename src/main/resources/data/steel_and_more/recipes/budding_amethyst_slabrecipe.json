@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:budding_amethyst"
+    },
+    "1": {
+      "item": "minecraft:budding_amethyst"
+    },
+    "2": {
+      "item": "minecraft:budding_amethyst"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:budding_amethyst_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "nether_quartz_ore"
+      },
+      "name": "default"
+    }
+  }
+}

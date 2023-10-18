@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/terracotta",
+    "top": "steel_and_more:block/terracotta",
+    "side": "steel_and_more:block/terracotta"
+  },
+  "render_type": "solid"
+}

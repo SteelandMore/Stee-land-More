@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:light_blue_concrete_powder"
+    },
+    "1": {
+      "item": "minecraft:light_blue_concrete_powder"
+    },
+    "2": {
+      "item": "minecraft:light_blue_concrete_powder"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:light_blue_concrete_powder_slab",
+    "count": 6
+  }
+}

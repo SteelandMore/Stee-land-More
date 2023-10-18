@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/andesite_vertical_slab",
+  "textures": {
+    "all": "steel_and_more:block/andesite",
+    "particle": "steel_and_more:block/andesite",
+    "2": "steel_and_more:block/andesite"
+  },
+  "render_type": "solid"
+}

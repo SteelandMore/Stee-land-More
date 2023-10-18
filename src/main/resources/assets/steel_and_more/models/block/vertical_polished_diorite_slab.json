@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_polished_diorite_slab",
+  "textures": {
+    "all": "steel_and_more:block/polished_diorite",
+    "particle": "steel_and_more:block/polished_diorite",
+    "1": "steel_and_more:block/polished_diorite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:warped_planks"
+    },
+    "3": {
+      "item": "minecraft:warped_planks"
+    },
+    "4": {
+      "item": "minecraft:light_gray_stained_glass"
+    },
+    "5": {
+      "item": "minecraft:warped_planks"
+    },
+    "7": {
+      "item": "minecraft:warped_planks"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:light_gray_glass_with_in_warped_frame",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/red_sandstone_top",
+    "top": "steel_and_more:block/chiseled_red_sandstone",
+    "side": "steel_and_more:block/red_sandstone_top"
+  },
+  "render_type": "solid"
+}

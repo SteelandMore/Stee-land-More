@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "steel_and_more:vertical_raw_iron_block_slab"
+    },
+    {
+      "item": "steel_and_more:vertical_raw_iron_block_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:raw_iron_block",
+    "count": 1
+  }
+}

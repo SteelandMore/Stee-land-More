@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "steel_and_more:block/deepslate_lapis_ore",
+    "top": "steel_and_more:block/deepslate_lapis_ore",
+    "side": "steel_and_more:block/deepslate_lapis_ore"
+  },
+  "render_type": "solid"
+}

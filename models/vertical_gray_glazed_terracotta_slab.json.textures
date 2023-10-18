@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "gray_glazed_terracotta"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_noside",
+  "textures": {
+    "pane": "steel_and_more:block/yellow_glass_pane_with_in_warbed_frame"
+  },
+  "render_type": "translucent"
+}

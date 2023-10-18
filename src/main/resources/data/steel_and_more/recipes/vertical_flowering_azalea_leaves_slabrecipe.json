@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:flowering_azalea_leaves"
+    },
+    "1": {
+      "item": "minecraft:flowering_azalea_leaves"
+    },
+    "2": {
+      "item": "minecraft:flowering_azalea_leaves"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:vertical_flowering_azalea_leaves_slab",
+    "count": 6
+  }
+}

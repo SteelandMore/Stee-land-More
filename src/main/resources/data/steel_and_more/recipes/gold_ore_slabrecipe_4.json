@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "steel_and_more:gold_ore_slab"
+  },
+  "result": "minecraft:gold_ingot"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_cracked_stone_bricks",
+  "textures": {
+    "all": "steel_and_more:block/cracked_stone_bricks",
+    "particle": "steel_and_more:block/cracked_stone_bricks",
+    "2": "steel_and_more:block/cracked_stone_bricks"
+  },
+  "render_type": "solid"
+}

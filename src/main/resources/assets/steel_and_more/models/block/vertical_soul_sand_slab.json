@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_soul_sand_slab",
+  "textures": {
+    "all": "steel_and_more:block/soul_sand",
+    "particle": "steel_and_more:block/soul_sand",
+    "1": "steel_and_more:block/soul_sand"
+  },
+  "render_type": "solid"
+}

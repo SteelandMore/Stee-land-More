@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:birch_leaves"
+  },
+  "result": "steel_and_more:birch_leaves_slab"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/mushroom_block_inside",
+    "top": "steel_and_more:block/mushroom_block_inside",
+    "side": "steel_and_more:block/mushroom_block_inside"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/shroomlight",
+    "top": "steel_and_more:block/shroomlight",
+    "side": "steel_and_more:block/shroomlight"
+  },
+  "render_type": "solid"
+}

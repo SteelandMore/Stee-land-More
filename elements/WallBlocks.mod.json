@@ -1,0 +1,900 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:VerticalOakSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSpruceSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBirchSlab"
+      },
+      {
+        "value": "CUSTOM:JungleVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalAcaciaSlab"
+      },
+      {
+        "value": "CUSTOM:BlackOakVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:CrimsonVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:WarpedVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStoneSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSmoothStoneSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCobblestoneSlab"
+      },
+      {
+        "value": "CUSTOM:MossyCobblestoneVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStoneBrickSlab"
+      },
+      {
+        "value": "CUSTOM:MossyStoneBrickVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:AndesiteVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPolishedAndesiteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDioriteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPolishedDioriteSlab"
+      },
+      {
+        "value": "CUSTOM:GraniteVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPolishedGraniteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSandstoneSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCutSandstoneSlab"
+      },
+      {
+        "value": "CUSTOM:SmoothSandstoneVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSlabRedSandstone"
+      },
+      {
+        "value": "CUSTOM:VerticalSlabCutRedSandstone"
+      },
+      {
+        "value": "CUSTOM:SmoothRedSandstoneVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBrickSlab"
+      },
+      {
+        "value": "CUSTOM:PrismarineVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCutPrismarineSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSlabDarkPrismarine"
+      },
+      {
+        "value": "CUSTOM:VerticalNetherBrickSlab"
+      },
+      {
+        "value": "CUSTOM:NetherRedBrickVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalQuartzSlab"
+      },
+      {
+        "value": "CUSTOM:SmoothQuartzVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSlabPurpur"
+      },
+      {
+        "value": "CUSTOM:EndStoneVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSlabBlackstone"
+      },
+      {
+        "value": "CUSTOM:PolishedBlackstoneSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedBlackstoneBrickSlab"
+      },
+      {
+        "value": "CUSTOM:CutCopperSlab"
+      },
+      {
+        "value": "CUSTOM:CobbledDeepslateSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedDeepslateSlab"
+      },
+      {
+        "value": "CUSTOM:DeepslateBrickSlab"
+      },
+      {
+        "value": "CUSTOM:DeepslateTileSlab"
+      },
+      {
+        "value": "CUSTOM:SteelVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalIronSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGoldSlab"
+      },
+      {
+        "value": "CUSTOM:CoalVerticalSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalRedstoneSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLapisLazuliSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDiamondSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalNetheriteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalExposedCopperSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalWeatheredCopperSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalOxidizedCopperSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSandSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalRedSandSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalChiseledStoneBricksSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCrackedStoneBricks"
+      },
+      {
+        "value": "CUSTOM:VerticalPurpurPillarSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalWithTheTopOfThePillarOfPurpurSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCutCopperSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalExposedCutCopperSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalWeatheredCutCopperSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalOxidizedCutCopperSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalQuartzPillarSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalWithTheTopOfTheQuartzPillarSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDeepslateSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalChiseledDeepslateSlab"
+      },
+      {
+        "value": "CUSTOM:VerticaleCrackedDeepslateBricksSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCrackedDeepslateTilesSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCalciteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSmoothBasaltSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalAmethystSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCrackedPolishedBlackstoneBricksSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalChiseledPolishedBlackstoneSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCrackedNetherBricksSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalTuffSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBlackConcretePowderSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGrayConcretePowderSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLightGrayConcretePowderSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalWhiteConcretePowderSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalRedConcretePowderSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPurpleConcretePowderSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMagentaConcretePowderSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPinkConcretePowderSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalOrangeConcretePowderSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalYellowConcretePowderSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGreenConcretePowderSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLimeConcretePowderSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCyanConcretePowder"
+      },
+      {
+        "value": "CUSTOM:VerticalLightBlueConcretePowderSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBlueConcretePowderSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBlackConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGrayConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLightGrayConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalWhiteConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBrownConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalRedConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPurpleConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMagentaConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPinkConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalOrangeConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalYellowConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGreenConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLimeConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCyanConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLightBlueConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBlueConcreteSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBlackTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGrayTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLightGrayTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalWhiteTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBrownTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalRedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPurpleTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMagentaTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPinkTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalOrangeTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalYellowTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGreenTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLimeTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCyanTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLightBlueTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBlueTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalClaySlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBlackGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGrayGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLightGrayGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalWhiteGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBrownGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalRedGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPurpleGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMagentaGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPinkGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalOrangeGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalYellowGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGreenGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLimeGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCyanGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLightBlueGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBlueGlazedTerracottaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBlackWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGrayWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLightGrayWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalWhiteWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBrownWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalRedWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPurpleWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMagentaWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPinkWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalOrangeWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalYellowWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGreenWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLimeWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCyanWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLightBlueWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBlueWoolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDripstoneSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGrassSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDirtSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMangroveSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGravelSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMagmaSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBedrockSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDeadTubeCoralBlockSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDeadBrainCoral"
+      },
+      {
+        "value": "CUSTOM:VerticalDeadBubbleCoralSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDeadFireCoralSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDeadHornCoralSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalTubeCoralSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBrainCoralSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBubbleCoralSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalFireCoralSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalHornCoralSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalIceSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPackedIceSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBlueIceSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalReinforcedDeepslateSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCoalOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDeepslateCoalOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCopperOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDeepslateCopperOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalLapisLazuliOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDeepslateLapisLazuliOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalIronOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDeepslateIronOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalRedstoneOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDeepslateRedstoneOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDiamondOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDeepslateDiamondOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalQuartzOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGoldOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDeepslateGoldOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalNetherGoldOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalEmeraldOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDeepslateEmeraldOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalAncientDebrisSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalOakLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalOakWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedOakLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedOakWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSpruceLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSpruceWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedSpruceWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBirchLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBirchWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedBirchLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedSpruceLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedBirchWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalJungleLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalJungleWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedJungleLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedJungleWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalAcaciaLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalAcaciaWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedAcaciaLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedAcaciaWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDarkOakLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDarkOakWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedDarkOakLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedDarkOakWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMangroveLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMangroveWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedMangroveLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedMangrovewoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCrimsonLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCrimsonWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedCrimsonLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedCrimsonWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalWarpedLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalWarpedWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedWarpedLogSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalStrippedWarpedWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMudSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalChiseledSandstoneSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalChiseledRedSandstoneSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSeaLanternSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalNetherrackSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalChiseledNetherBricksSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBasaltSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPolishedBasaltSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalEndStoneSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalOakLeavesSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSpruceLeavesSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBirchLeavesSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalJungleLeavesSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalAcaciaLeavesSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDarkOakLeavesSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalFloweringAzaleaLeavesSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalAzaleaLeavesSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMangroveLeavesSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPodzolSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMyceliumSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalDirtPathSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCoarseDirtSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalRootedDirtSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSnowSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMossSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCrimsonNyliumSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalWarpedNyliumSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalEmeraldBlockslab"
+      },
+      {
+        "value": "CUSTOM:VerticalRawIronBlockSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalRawCopperBlockSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalRawGoldBlockSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSteelOreSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMushroomStemSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMushroomBlockInsideSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBrownMushroomBlockSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalRedMushroomBlockSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalNetherWartBlockSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalWarpedWartBlockSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalShroomlightSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMelonslab"
+      },
+      {
+        "value": "CUSTOM:VerticalPumpkinSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCarvedPumpkinSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalJackOLanternSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalPearlescentFroglightSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalVerdantFroglightSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalOchreFroglightSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMangroveRootsSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMuddyMangroveRootsSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGildedBlackstoneSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalChiseledQuartzBlockSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalQuartzBricksSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalObsidianSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalCryingObsidianSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSoulSandSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSoulSoilSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBoneBlockSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalGlowstoneSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalBuddingAmethystSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSpongeSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalWetSpongeSlab"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "walls",
+    "namespace": "minecraft"
+  }
+}

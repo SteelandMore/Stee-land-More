@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "steel_and_more:block/dead_tube_coral_block_slab"
+    },
+    "type=top": {
+      "model": "steel_and_more:block/dead_tube_coral_block_slab_top"
+    },
+    "type=double": {
+      "model": "steel_and_more:block/dead_tube_coral_block_slab_full"
+    }
+  }
+}

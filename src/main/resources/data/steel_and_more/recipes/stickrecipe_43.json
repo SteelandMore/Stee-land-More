@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 8,
+  "ingredient": {
+    "item": "minecraft:stripped_mangrove_log"
+  },
+  "result": "minecraft:stick"
+}

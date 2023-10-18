@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "1": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "2": {
+      "item": "minecraft:light_gray_wool"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:vertical_light_gray_wool_slab",
+    "count": 6
+  }
+}

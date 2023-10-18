@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 3,
+  "ingredient": {
+    "item": "steel_and_more:orange_glass_with_in_acacia_frame"
+  },
+  "result": "steel_and_more:orange_tinted_glass_pane_with_in_acacia_frame"
+}

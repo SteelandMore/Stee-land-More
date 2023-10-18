@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "steel_and_more:block/mossy_stone_brick_vertical_slab"
+    },
+    "facing=east": {
+      "model": "steel_and_more:block/mossy_stone_brick_vertical_slab",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "steel_and_more:block/mossy_stone_brick_vertical_slab",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "steel_and_more:block/mossy_stone_brick_vertical_slab",
+      "y": 270
+    }
+  }
+}

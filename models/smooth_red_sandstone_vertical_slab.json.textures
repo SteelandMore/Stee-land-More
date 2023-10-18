@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "red_sandstone_top"
+      },
+      "name": "default"
+    }
+  }
+}

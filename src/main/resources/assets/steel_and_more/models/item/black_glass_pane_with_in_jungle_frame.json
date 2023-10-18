@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "steel_and_more:item/black_glass_pane_with_in_jungle_frame"
+  },
+  "render_type": "translucent"
+}

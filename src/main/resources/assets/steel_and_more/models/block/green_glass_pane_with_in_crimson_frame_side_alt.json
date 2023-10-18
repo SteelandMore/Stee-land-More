@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "steel_and_more:block/green_glass_pane_with_in_crimson_frame",
+    "pane": "steel_and_more:block/green_glass_pane_with_in_crimson_frame"
+  },
+  "render_type": "translucent"
+}

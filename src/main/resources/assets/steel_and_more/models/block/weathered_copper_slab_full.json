@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/weathered_copper",
+    "top": "steel_and_more:block/weathered_copper",
+    "side": "steel_and_more:block/weathered_copper"
+  },
+  "render_type": "solid"
+}

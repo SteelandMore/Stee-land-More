@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "steel_and_more:mossy_cobblestone_vertical_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:mossy_cobblestone_slab",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "steel_and_more:block/steel_ore",
+    "up": "steel_and_more:block/steel_ore",
+    "north": "steel_and_more:block/steel_ore",
+    "east": "steel_and_more:block/steel_ore",
+    "south": "steel_and_more:block/steel_ore",
+    "west": "steel_and_more:block/steel_ore",
+    "particle": "steel_and_more:block/steel_ore"
+  },
+  "render_type": "solid"
+}

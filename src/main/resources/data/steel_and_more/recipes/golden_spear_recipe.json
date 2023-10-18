@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "golden_spear_recipe",
+  "category": "misc",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "4": {
+      "item": "steel_and_more:stone_spear"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:golden_spear",
+    "count": 1
+  }
+}

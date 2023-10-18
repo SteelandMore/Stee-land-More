@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:coals"
+    },
+    "1": {
+      "tag": "minecraft:coals"
+    },
+    "2": {
+      "tag": "minecraft:coals"
+    },
+    "3": {
+      "tag": "minecraft:coals"
+    },
+    "4": {
+      "tag": "minecraft:coals"
+    },
+    "5": {
+      "tag": "minecraft:coals"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:coal_trap_doorfull",
+    "count": 2
+  }
+}

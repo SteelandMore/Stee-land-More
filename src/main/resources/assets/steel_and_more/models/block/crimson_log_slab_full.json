@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/crimson_stem_top",
+    "top": "steel_and_more:block/crimson_stem_top",
+    "side": "steel_and_more:block/crimsonanim"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "mangrove_planks"
+      },
+      "name": "default"
+    }
+  }
+}

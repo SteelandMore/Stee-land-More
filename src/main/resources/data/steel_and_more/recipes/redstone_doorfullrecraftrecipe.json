@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "steel_and_more:redstone_door"
+    }
+  ],
+  "result": {
+    "item": "steel_and_more:redstone_doorfull",
+    "count": 1
+  }
+}

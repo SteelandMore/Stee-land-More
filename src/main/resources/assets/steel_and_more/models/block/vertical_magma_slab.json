@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_magma_slab",
+  "textures": {
+    "all": "steel_and_more:block/magmaanimation",
+    "particle": "steel_and_more:block/magmaanimation",
+    "2": "steel_and_more:block/magmaanimation"
+  },
+  "render_type": "solid"
+}

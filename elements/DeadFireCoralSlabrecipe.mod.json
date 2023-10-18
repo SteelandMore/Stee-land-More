@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.DEAD_FIRE_CORAL_BLOCK"
+      },
+      {
+        "value": "Blocks.DEAD_FIRE_CORAL_BLOCK"
+      },
+      {
+        "value": "Blocks.DEAD_FIRE_CORAL_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DeadFireCoralSlab"
+    },
+    "name": "dead_fire_coral_slabrecipe",
+    "namespace": "mod"
+  }
+}

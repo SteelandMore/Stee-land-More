@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "steel_and_more:block/vertical_with_the_top_of_the_pillar_of_purpur_slab"
+    },
+    "facing=east": {
+      "model": "steel_and_more:block/vertical_with_the_top_of_the_pillar_of_purpur_slab",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "steel_and_more:block/vertical_with_the_top_of_the_pillar_of_purpur_slab",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "steel_and_more:block/vertical_with_the_top_of_the_pillar_of_purpur_slab",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "steel_and_more:vertical_red_wool_slab"
+    },
+    {
+      "item": "steel_and_more:vertical_red_wool_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:red_wool",
+    "count": 1
+  }
+}

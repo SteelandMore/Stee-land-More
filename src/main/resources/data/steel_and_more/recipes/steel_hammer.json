@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steel_hammer",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "steel_and_more:steelingot"
+    },
+    "1": {
+      "item": "steel_and_more:steelingot"
+    },
+    "2": {
+      "item": "steel_and_more:steelingot"
+    },
+    "3": {
+      "item": "steel_and_more:steelingot"
+    },
+    "4": {
+      "item": "steel_and_more:iron_hammer"
+    },
+    "5": {
+      "item": "steel_and_more:steelingot"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:steel_hammer",
+    "count": 1
+  }
+}

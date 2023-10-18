@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:birch_log"
+    },
+    "1": {
+      "item": "minecraft:birch_log"
+    },
+    "2": {
+      "item": "minecraft:birch_log"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:birch_log_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "steel_and_more:block/redstonepressureplate"
+    },
+    "powered=true": {
+      "model": "steel_and_more:block/redstonepressureplate_down"
+    }
+  }
+}

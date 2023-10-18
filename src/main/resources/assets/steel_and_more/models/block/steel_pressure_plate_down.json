@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "steel_and_more:block/steel_block"
+  },
+  "render_type": "solid"
+}

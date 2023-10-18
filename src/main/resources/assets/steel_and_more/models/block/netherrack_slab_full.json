@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/netherrack",
+    "top": "steel_and_more:block/netherrack",
+    "side": "steel_and_more:block/netherrack"
+  },
+  "render_type": "solid"
+}

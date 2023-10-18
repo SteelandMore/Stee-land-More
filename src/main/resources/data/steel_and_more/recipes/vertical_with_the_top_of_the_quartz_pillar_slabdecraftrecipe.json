@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "steel_and_more:vertical_with_the_top_of_the_quartz_pillar_slab"
+    },
+    {
+      "item": "steel_and_more:vertical_with_the_top_of_the_quartz_pillar_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:quartz_pillar",
+    "count": 1
+  }
+}

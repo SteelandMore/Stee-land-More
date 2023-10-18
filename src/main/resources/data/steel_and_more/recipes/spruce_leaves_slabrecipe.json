@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spruce_leaves"
+    },
+    "1": {
+      "item": "minecraft:spruce_leaves"
+    },
+    "2": {
+      "item": "minecraft:spruce_leaves"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:spruce_leaves_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "pumpkin_top",
+        "2": "pumpkin_side"
+      },
+      "name": "default"
+    }
+  }
+}

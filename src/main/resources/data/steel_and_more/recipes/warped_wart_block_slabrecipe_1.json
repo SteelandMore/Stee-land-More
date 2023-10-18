@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:warped_wart_block"
+  },
+  "result": "steel_and_more:warped_wart_block_slab"
+}

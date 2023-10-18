@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_deepslate_slab",
+  "textures": {
+    "all": "steel_and_more:block/deepslate",
+    "particle": "steel_and_more:block/deepslate",
+    "2": "steel_and_more:block/deepslate"
+  },
+  "render_type": "solid"
+}

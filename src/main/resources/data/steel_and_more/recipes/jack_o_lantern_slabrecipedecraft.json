@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "steel_and_more:jack_o_lantern_slab"
+    },
+    {
+      "item": "steel_and_more:jack_o_lantern_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:jack_o_lantern",
+    "count": 1
+  }
+}

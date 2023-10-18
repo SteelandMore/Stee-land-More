@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_warped_wood_slab",
+  "textures": {
+    "all": "steel_and_more:block/warped_stem",
+    "particle": "steel_and_more:block/warped_stem",
+    "0": "steel_and_more:block/warped_stem"
+  },
+  "render_type": "solid"
+}

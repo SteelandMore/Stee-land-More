@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_button"
+    },
+    {
+      "item": "steel_and_more:steelingot"
+    }
+  ],
+  "result": {
+    "item": "steel_and_more:steel_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/budding_amethyst",
+    "top": "steel_and_more:block/budding_amethyst",
+    "side": "steel_and_more:block/budding_amethyst"
+  },
+  "render_type": "solid"
+}

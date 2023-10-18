@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mangrove_leaves"
+      },
+      "name": "default"
+    }
+  }
+}

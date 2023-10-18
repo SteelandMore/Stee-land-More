@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "steel_and_more:nether_wart_block_slab"
+  },
+  "result": "steel_and_more:vertical_nether_wart_block_slab"
+}

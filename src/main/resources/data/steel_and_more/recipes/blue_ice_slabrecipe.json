@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blue_ice"
+    },
+    "1": {
+      "item": "minecraft:blue_ice"
+    },
+    "2": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:blue_ice_slab",
+    "count": 6
+  }
+}

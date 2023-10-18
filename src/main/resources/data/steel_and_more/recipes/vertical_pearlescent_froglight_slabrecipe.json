@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:pearlescent_froglight"
+    },
+    "1": {
+      "item": "minecraft:pearlescent_froglight"
+    },
+    "2": {
+      "item": "minecraft:pearlescent_froglight"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:vertical_pearlescent_froglight_slab",
+    "count": 6
+  }
+}

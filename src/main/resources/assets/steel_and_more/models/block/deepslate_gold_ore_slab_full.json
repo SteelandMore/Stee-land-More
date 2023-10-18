@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/deepslate_gold_ore",
+    "top": "steel_and_more:block/deepslate_gold_ore",
+    "side": "steel_and_more:block/deepslate_gold_ore"
+  },
+  "render_type": "solid"
+}

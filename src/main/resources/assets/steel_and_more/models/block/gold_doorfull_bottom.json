@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "steel_and_more:blocks/gold_block",
+    "top": "steel_and_more:blocks/gold_block"
+  }
+}

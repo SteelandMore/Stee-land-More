@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_sponge_slab",
+  "textures": {
+    "all": "steel_and_more:block/sponge",
+    "particle": "steel_and_more:block/sponge",
+    "1": "steel_and_more:block/sponge"
+  },
+  "render_type": "solid"
+}

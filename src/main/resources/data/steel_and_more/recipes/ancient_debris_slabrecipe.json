@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ancient_debris"
+    },
+    "1": {
+      "item": "minecraft:ancient_debris"
+    },
+    "2": {
+      "item": "minecraft:ancient_debris"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:ancient_debris_slab",
+    "count": 6
+  }
+}

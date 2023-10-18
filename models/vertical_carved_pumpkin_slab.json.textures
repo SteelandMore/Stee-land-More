@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "carved_pumpkin",
+        "2": "pumpkin_side",
+        "3": "pumpkin_top"
+      },
+      "name": "default"
+    }
+  }
+}

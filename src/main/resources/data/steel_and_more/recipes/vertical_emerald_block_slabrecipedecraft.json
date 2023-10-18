@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "steel_and_more:vertical_emerald_blockslab"
+    },
+    {
+      "item": "steel_and_more:vertical_emerald_blockslab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:emerald_block",
+    "count": 1
+  }
+}

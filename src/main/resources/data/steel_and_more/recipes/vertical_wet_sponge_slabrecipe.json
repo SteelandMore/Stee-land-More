@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wet_sponge"
+    },
+    "1": {
+      "item": "minecraft:wet_sponge"
+    },
+    "2": {
+      "item": "minecraft:wet_sponge"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:vertical_wet_sponge_slab",
+    "count": 6
+  }
+}

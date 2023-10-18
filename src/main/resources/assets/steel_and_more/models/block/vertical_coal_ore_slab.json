@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_coal_ore_slab",
+  "textures": {
+    "all": "steel_and_more:block/coal_ore",
+    "particle": "steel_and_more:block/coal_ore",
+    "0": "steel_and_more:block/coal_ore"
+  },
+  "render_type": "solid"
+}

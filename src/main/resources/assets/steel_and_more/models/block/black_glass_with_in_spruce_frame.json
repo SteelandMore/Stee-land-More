@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "steel_and_more:block/black_glass_pane_with_in_spruce_frame",
+    "up": "steel_and_more:block/black_glass_pane_with_in_spruce_frame",
+    "north": "steel_and_more:block/black_glass_pane_with_in_spruce_frame",
+    "east": "steel_and_more:block/black_glass_pane_with_in_spruce_frame",
+    "south": "steel_and_more:block/black_glass_pane_with_in_spruce_frame",
+    "west": "steel_and_more:block/black_glass_pane_with_in_spruce_frame",
+    "particle": "steel_and_more:block/black_glass_pane_with_in_spruce_frame"
+  },
+  "render_type": "translucent"
+}

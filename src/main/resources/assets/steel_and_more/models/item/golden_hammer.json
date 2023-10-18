@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "steel_and_more:item/golden_hammer"
+  }
+}

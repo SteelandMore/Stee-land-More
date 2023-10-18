@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/packed_ice",
+    "top": "steel_and_more:block/packed_ice",
+    "side": "steel_and_more:block/packed_ice"
+  },
+  "render_type": "solid"
+}

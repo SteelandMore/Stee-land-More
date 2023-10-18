@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:pumpkin"
+    },
+    "1": {
+      "item": "minecraft:pumpkin"
+    },
+    "2": {
+      "item": "minecraft:pumpkin"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:pumpkin_slab",
+    "count": 6
+  }
+}

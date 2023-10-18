@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/black_concrete",
+    "top": "steel_and_more:block/black_concrete",
+    "side": "steel_and_more:block/black_concrete"
+  },
+  "render_type": "solid"
+}

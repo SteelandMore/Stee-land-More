@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "steel_and_more:dark_oak_log_slab"
+  },
+  "result": "steel_and_more:vertical_dark_oak_wood_slab"
+}

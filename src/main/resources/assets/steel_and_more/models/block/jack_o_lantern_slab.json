@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/jack-o-lantern",
+    "top": "steel_and_more:block/jack-o-lantern",
+    "side": "steel_and_more:block/pumpkin_side"
+  },
+  "render_type": "solid"
+}

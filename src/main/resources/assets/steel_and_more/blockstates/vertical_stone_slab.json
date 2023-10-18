@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "steel_and_more:block/vertical_stone_slab"
+    },
+    "facing=east": {
+      "model": "steel_and_more:block/vertical_stone_slab",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "steel_and_more:block/vertical_stone_slab",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "steel_and_more:block/vertical_stone_slab",
+      "y": 270
+    }
+  }
+}

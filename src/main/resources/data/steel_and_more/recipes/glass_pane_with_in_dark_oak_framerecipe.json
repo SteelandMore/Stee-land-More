@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 3,
+  "ingredient": {
+    "item": "steel_and_more:glass_with_in_dark_oak_frame"
+  },
+  "result": "steel_and_more:glass_with_a_dark_oak_frame"
+}

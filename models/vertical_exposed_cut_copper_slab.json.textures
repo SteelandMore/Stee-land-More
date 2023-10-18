@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "exposed_cut_copper"
+      },
+      "name": "default"
+    }
+  }
+}

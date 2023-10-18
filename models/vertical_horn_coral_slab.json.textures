@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "horn_coral_block"
+      },
+      "name": "default"
+    }
+  }
+}

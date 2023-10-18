@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "steel_and_more:block/cyan_glass_pane_with_in_warped_frame",
+    "pane": "steel_and_more:block/cyan_glass_pane_with_in_warped_frame"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "steel_and_more:steel_block"
+    },
+    "1": {
+      "item": "steel_and_more:steel_block"
+    },
+    "2": {
+      "item": "steel_and_more:steel_block"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:steel_slab",
+    "count": 6
+  }
+}

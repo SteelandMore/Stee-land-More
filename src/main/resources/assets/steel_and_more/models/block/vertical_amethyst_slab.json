@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_amethyst_slab",
+  "textures": {
+    "all": "steel_and_more:block/amethyst_block",
+    "particle": "steel_and_more:block/amethyst_block",
+    "1": "steel_and_more:block/amethyst_block"
+  },
+  "render_type": "solid"
+}

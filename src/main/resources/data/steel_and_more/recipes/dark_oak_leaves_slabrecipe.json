@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dark_oak_leaves"
+    },
+    "1": {
+      "item": "minecraft:dark_oak_leaves"
+    },
+    "2": {
+      "item": "minecraft:dark_oak_leaves"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:dark_oak_leaves_slab",
+    "count": 6
+  }
+}

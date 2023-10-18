@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "reinforced_deepslate_top",
+        "3": "reinforced_deepslate_bottom",
+        "4": "reinforced_deepslate_side"
+      },
+      "name": "default"
+    }
+  }
+}

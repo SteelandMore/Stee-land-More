@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.WARPED_HYPHAE"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Blocks.WARPED_DOOR"
+    },
+    "name": "warped_doorrecipe_3",
+    "namespace": "mod"
+  }
+}

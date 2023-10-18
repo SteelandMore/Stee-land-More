@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "steel_and_more:vertical_pink_wool_slab"
+    },
+    {
+      "item": "steel_and_more:vertical_pink_wool_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pink_wool",
+    "count": 1
+  }
+}

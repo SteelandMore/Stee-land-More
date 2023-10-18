@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ochre_froglight"
+    },
+    "1": {
+      "item": "minecraft:ochre_froglight"
+    },
+    "2": {
+      "item": "minecraft:ochre_froglight"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:ochre_froglight_slab",
+    "count": 6
+  }
+}

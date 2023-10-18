@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "steel_and_more:item/light_blue_glass_pane_with_in_mangrove_frame"
+  },
+  "render_type": "translucent"
+}

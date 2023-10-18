@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:smooth_quartz"
+    },
+    "1": {
+      "item": "minecraft:smooth_quartz"
+    },
+    "2": {
+      "item": "minecraft:smooth_quartz"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:smooth_quartz_vertical_slab",
+    "count": 6
+  }
+}

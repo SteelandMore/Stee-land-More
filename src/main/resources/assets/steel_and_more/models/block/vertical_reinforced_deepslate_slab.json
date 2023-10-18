@@ -1,0 +1,11 @@
+{
+  "parent": "steel_and_more:custom/vertical_reinforced_deepslate_slab",
+  "textures": {
+    "all": "steel_and_more:block/reinforced_deepslate_side",
+    "particle": "steel_and_more:block/reinforced_deepslate_side",
+    "2": "steel_and_more:block/reinforced_deepslate_top",
+    "3": "steel_and_more:block/reinforced_deepslate_bottom",
+    "4": "steel_and_more:block/reinforced_deepslate_side"
+  },
+  "render_type": "solid"
+}

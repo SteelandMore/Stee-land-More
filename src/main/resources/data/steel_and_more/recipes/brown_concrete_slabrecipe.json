@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brown_concrete"
+    },
+    "1": {
+      "item": "minecraft:brown_concrete"
+    },
+    "2": {
+      "item": "minecraft:brown_concrete"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:brown_concrete_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_slab_dark_prismarine",
+  "textures": {
+    "all": "steel_and_more:block/dark_prismarine",
+    "particle": "steel_and_more:block/dark_prismarine",
+    "1": "steel_and_more:block/dark_prismarine"
+  },
+  "render_type": "solid"
+}

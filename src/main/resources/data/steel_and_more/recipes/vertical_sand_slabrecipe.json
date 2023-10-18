@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:sand"
+  },
+  "result": "steel_and_more:vertical_sand_slab"
+}

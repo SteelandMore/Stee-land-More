@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 16,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LightGreenGlassWithInJungleFrame"
+      },
+      {
+        "value": "CUSTOM:LightGreenGlassWithInJungleFrame"
+      },
+      {
+        "value": "CUSTOM:LightGreenGlassWithInJungleFrame"
+      },
+      {
+        "value": "CUSTOM:LightGreenGlassWithInJungleFrame"
+      },
+      {
+        "value": "CUSTOM:LightGreenGlassWithInJungleFrame"
+      },
+      {
+        "value": "CUSTOM:LightGreenGlassWithInJungleFrame"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LightGreenGlassPaneWithInJungleFrame"
+    },
+    "name": "light_green_glass_pane_with_in_jungle_framerecipe",
+    "namespace": "mod"
+  }
+}

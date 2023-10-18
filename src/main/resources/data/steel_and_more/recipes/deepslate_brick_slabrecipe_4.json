@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:deepslate_bricks"
+    },
+    "1": {
+      "item": "minecraft:deepslate_bricks"
+    },
+    "2": {
+      "item": "minecraft:deepslate_bricks"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:deepslate_brick_slab",
+    "count": 6
+  }
+}

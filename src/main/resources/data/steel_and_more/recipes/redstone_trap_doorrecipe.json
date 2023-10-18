@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "steel_and_more:redstone_trap_doorfull"
+  },
+  "result": "steel_and_more:redstone_trapdoor"
+}

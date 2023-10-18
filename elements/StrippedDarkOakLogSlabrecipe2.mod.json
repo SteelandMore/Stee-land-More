@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.STRIPPED_DARK_OAK_LOG"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:StrippedDarkOakLogSlab"
+    },
+    "name": "stripped_dark_oak_log_slabrecipe_2",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steel_helmet",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "steel_and_more:steelingot"
+    },
+    "1": {
+      "item": "steel_and_more:steelingot"
+    },
+    "2": {
+      "item": "steel_and_more:steelingot"
+    },
+    "3": {
+      "item": "steel_and_more:steelingot"
+    },
+    "5": {
+      "item": "steel_and_more:steelingot"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:steel_armor_helmet",
+    "count": 1
+  }
+}

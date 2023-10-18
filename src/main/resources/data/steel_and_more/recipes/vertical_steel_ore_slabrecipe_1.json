@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "steel_and_more:steel_ore"
+  },
+  "result": "steel_and_more:vertical_steel_ore_slab"
+}

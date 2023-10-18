@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "steel_and_more:vertical_terracotta_slab"
+    },
+    "1": {
+      "item": "steel_and_more:vertical_terracotta_slab"
+    },
+    "2": {
+      "item": "steel_and_more:vertical_terracotta_slab"
+    },
+    "3": {
+      "item": "steel_and_more:vertical_terracotta_slab"
+    },
+    "4": {
+      "item": "minecraft:blue_dye"
+    },
+    "5": {
+      "item": "steel_and_more:vertical_terracotta_slab"
+    },
+    "6": {
+      "item": "steel_and_more:vertical_terracotta_slab"
+    },
+    "7": {
+      "item": "steel_and_more:vertical_terracotta_slab"
+    },
+    "8": {
+      "item": "steel_and_more:vertical_terracotta_slab"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:vertical_blue_terracotta_slab",
+    "count": 8
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:coarse_dirt"
+  },
+  "result": "steel_and_more:vertical_coarse_dirt_slab"
+}

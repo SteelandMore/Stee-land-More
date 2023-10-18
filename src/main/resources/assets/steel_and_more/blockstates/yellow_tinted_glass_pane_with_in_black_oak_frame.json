@@ -1,0 +1,77 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "steel_and_more:block/yellow_tinted_glass_pane_with_in_black_oak_frame_post"
+      }
+    },
+    {
+      "when": {
+        "north": true
+      },
+      "apply": {
+        "model": "steel_and_more:block/yellow_tinted_glass_pane_with_in_black_oak_frame_side"
+      }
+    },
+    {
+      "when": {
+        "east": true
+      },
+      "apply": {
+        "model": "steel_and_more:block/yellow_tinted_glass_pane_with_in_black_oak_frame_side",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "south": true
+      },
+      "apply": {
+        "model": "steel_and_more:block/yellow_tinted_glass_pane_with_in_black_oak_frame_side_alt"
+      }
+    },
+    {
+      "when": {
+        "west": true
+      },
+      "apply": {
+        "model": "steel_and_more:block/yellow_tinted_glass_pane_with_in_black_oak_frame_side_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "north": false
+      },
+      "apply": {
+        "model": "steel_and_more:block/yellow_tinted_glass_pane_with_in_black_oak_frame_noside"
+      }
+    },
+    {
+      "when": {
+        "east": false
+      },
+      "apply": {
+        "model": "steel_and_more:block/yellow_tinted_glass_pane_with_in_black_oak_frame_noside_alt"
+      }
+    },
+    {
+      "when": {
+        "south": false
+      },
+      "apply": {
+        "model": "steel_and_more:block/yellow_tinted_glass_pane_with_in_black_oak_frame_noside_alt",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "west": false
+      },
+      "apply": {
+        "model": "steel_and_more:block/yellow_tinted_glass_pane_with_in_black_oak_frame_noside",
+        "y": 270
+      }
+    }
+  ]
+}

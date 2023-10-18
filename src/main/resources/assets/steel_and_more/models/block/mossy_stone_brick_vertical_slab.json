@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/mossy_stone_brick_vertical_slab",
+  "textures": {
+    "all": "steel_and_more:block/mossy_stone_bricks",
+    "particle": "steel_and_more:block/mossy_stone_bricks",
+    "1": "steel_and_more:block/mossy_stone_bricks"
+  },
+  "render_type": "solid"
+}

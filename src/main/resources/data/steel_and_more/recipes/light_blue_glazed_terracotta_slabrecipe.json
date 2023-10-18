@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_glazed_terracotta"
+    },
+    {
+      "item": "minecraft:light_blue_glazed_terracotta"
+    },
+    {
+      "item": "minecraft:light_blue_glazed_terracotta"
+    }
+  ],
+  "result": {
+    "item": "steel_and_more:light_blue_glazed_terracotta_slab",
+    "count": 6
+  }
+}

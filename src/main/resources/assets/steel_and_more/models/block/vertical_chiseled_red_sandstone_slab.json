@@ -1,0 +1,10 @@
+{
+  "parent": "steel_and_more:custom/vertical_chiseled_red_sandstone_slab",
+  "textures": {
+    "all": "steel_and_more:block/chiseled_red_sandstone",
+    "particle": "steel_and_more:block/chiseled_red_sandstone",
+    "0": "steel_and_more:block/chiseled_red_sandstone",
+    "1": "steel_and_more:block/red_sandstone_top"
+  },
+  "render_type": "solid"
+}

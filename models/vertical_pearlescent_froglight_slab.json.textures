@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "pearlescent_froglight_side",
+        "4": "pearlescent_froglight_top"
+      },
+      "name": "default"
+    }
+  }
+}

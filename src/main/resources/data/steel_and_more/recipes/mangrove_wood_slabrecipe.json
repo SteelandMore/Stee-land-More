@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:mangrove_wood"
+    },
+    "1": {
+      "item": "minecraft:mangrove_wood"
+    },
+    "2": {
+      "item": "minecraft:mangrove_wood"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:mangrove_wood_slab",
+    "count": 6
+  }
+}

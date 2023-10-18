@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_concrete"
+    },
+    "1": {
+      "item": "minecraft:red_concrete"
+    },
+    "2": {
+      "item": "minecraft:red_concrete"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:red_concrete_slab",
+    "count": 6
+  }
+}

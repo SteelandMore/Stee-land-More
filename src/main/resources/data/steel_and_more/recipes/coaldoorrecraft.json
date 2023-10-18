@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:coals"
+    },
+    {
+      "item": "steel_and_more:coal_door"
+    }
+  ],
+  "result": {
+    "item": "steel_and_more:coal_doorfull",
+    "count": 1
+  }
+}

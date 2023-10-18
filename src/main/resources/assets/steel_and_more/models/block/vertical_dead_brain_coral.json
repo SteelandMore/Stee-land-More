@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_dead_brain_coral",
+  "textures": {
+    "all": "steel_and_more:block/dead_brain_coral_block",
+    "particle": "steel_and_more:block/dead_brain_coral_block",
+    "1": "steel_and_more:block/dead_brain_coral_block"
+  },
+  "render_type": "solid"
+}

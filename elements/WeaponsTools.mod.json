@@ -1,0 +1,11 @@
+{
+  "_fv": 47,
+  "_type": "tab",
+  "definition": {
+    "name": "Weapons / Tools",
+    "icon": {
+      "value": "CUSTOM:SteelSword"
+    },
+    "showSearch": false
+  }
+}

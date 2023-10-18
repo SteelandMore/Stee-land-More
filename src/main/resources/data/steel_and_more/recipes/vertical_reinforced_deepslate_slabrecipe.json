@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:reinforced_deepslate"
+    },
+    "1": {
+      "item": "minecraft:reinforced_deepslate"
+    },
+    "2": {
+      "item": "minecraft:reinforced_deepslate"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:vertical_reinforced_deepslate_slab",
+    "count": 6
+  }
+}

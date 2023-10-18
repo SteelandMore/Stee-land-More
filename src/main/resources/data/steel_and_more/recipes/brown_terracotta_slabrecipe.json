@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brown_terracotta"
+    },
+    "1": {
+      "item": "minecraft:brown_terracotta"
+    },
+    "2": {
+      "item": "minecraft:brown_terracotta"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:brown_terracotta_slab",
+    "count": 6
+  }
+}

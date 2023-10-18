@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_pink_terracotta_slab",
+  "textures": {
+    "all": "steel_and_more:block/pink_terracotta",
+    "particle": "steel_and_more:block/pink_terracotta",
+    "2": "steel_and_more:block/pink_terracotta"
+  },
+  "render_type": "solid"
+}

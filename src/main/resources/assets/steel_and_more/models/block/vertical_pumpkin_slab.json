@@ -1,0 +1,10 @@
+{
+  "parent": "steel_and_more:custom/vertical_pumpkin_slab",
+  "textures": {
+    "all": "steel_and_more:block/pumpkin_side",
+    "particle": "steel_and_more:block/pumpkin_side",
+    "1": "steel_and_more:block/pumpkin_top",
+    "2": "steel_and_more:block/pumpkin_side"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:soul_soil"
+    },
+    "1": {
+      "item": "minecraft:soul_soil"
+    },
+    "2": {
+      "item": "minecraft:soul_soil"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:soul_soil_slab",
+    "count": 6
+  }
+}

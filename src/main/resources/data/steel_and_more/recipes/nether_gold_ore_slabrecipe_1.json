@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:nether_gold_ore"
+  },
+  "result": "steel_and_more:nether_gold_ore_slab"
+}

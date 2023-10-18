@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "steel_and_more:block/light_gray_glass_pane_with_in_black_oak_frame",
+    "up": "steel_and_more:block/light_gray_glass_pane_with_in_black_oak_frame",
+    "north": "steel_and_more:block/light_gray_glass_pane_with_in_black_oak_frame",
+    "east": "steel_and_more:block/light_gray_glass_pane_with_in_black_oak_frame",
+    "south": "steel_and_more:block/light_gray_glass_pane_with_in_black_oak_frame",
+    "west": "steel_and_more:block/light_gray_glass_pane_with_in_black_oak_frame",
+    "particle": "steel_and_more:block/light_gray_glass_pane_with_in_black_oak_frame"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "steel_and_more:custom/vertical_warped_nylium_slab",
+  "textures": {
+    "all": "steel_and_more:block/warped_nylium_side",
+    "particle": "steel_and_more:block/warped_nylium_side",
+    "1": "steel_and_more:block/warped_nylium",
+    "2": "steel_and_more:block/warped_nylium_side",
+    "3": "steel_and_more:block/netherrack"
+  },
+  "render_type": "solid"
+}

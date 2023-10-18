@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/wet_sponge",
+    "top": "steel_and_more:block/wet_sponge",
+    "side": "steel_and_more:block/wet_sponge"
+  },
+  "render_type": "solid"
+}

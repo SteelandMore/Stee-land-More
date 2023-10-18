@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:StrippedJungleLogSlab"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Blocks.PLANKS#3"
+    },
+    "name": "jungle_planksrecipe_8",
+    "namespace": "mod"
+  }
+}

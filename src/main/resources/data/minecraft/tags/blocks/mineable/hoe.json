@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "steel_and_more:nether_wart_block_slab",
+    "steel_and_more:warped_wart_block_slab",
+    "steel_and_more:shroomlight_slab",
+    "steel_and_more:moss_slab",
+    "steel_and_more:vertical_nether_wart_block_slab",
+    "steel_and_more:vertical_warped_wart_block_slab",
+    "steel_and_more:vertical_shroomlight_slab",
+    "steel_and_more:vertical_moss_slab",
+    "steel_and_more:sponge_slab",
+    "steel_and_more:vertical_sponge_slab",
+    "steel_and_more:wet_sponge_slab",
+    "steel_and_more:vertical_wet_sponge_slab"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "steel_and_more:custom/vertical_jack-o-lantern_slab",
+  "textures": {
+    "all": "steel_and_more:block/jack-o-lantern",
+    "particle": "steel_and_more:block/jack-o-lantern",
+    "1": "steel_and_more:block/jack-o-lantern",
+    "2": "steel_and_more:block/pumpkin_side",
+    "4": "steel_and_more:block/pumpkin_top"
+  },
+  "render_type": "solid"
+}

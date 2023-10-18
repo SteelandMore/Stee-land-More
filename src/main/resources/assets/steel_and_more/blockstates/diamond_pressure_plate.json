@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "steel_and_more:block/diamond_pressure_plate"
+    },
+    "powered=true": {
+      "model": "steel_and_more:block/diamond_pressure_plate_down"
+    }
+  }
+}

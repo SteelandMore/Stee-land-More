@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "flowering_azalea_leaves"
+      },
+      "name": "default"
+    }
+  }
+}

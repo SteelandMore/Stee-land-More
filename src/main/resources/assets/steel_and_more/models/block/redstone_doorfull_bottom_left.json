@@ -1,0 +1,8 @@
+{
+  "parent": "block/door_bottom_left",
+  "textures": {
+    "bottom": "steel_and_more:block/redstone_block",
+    "top": "steel_and_more:block/redstone_block"
+  },
+  "render_type": "solid"
+}

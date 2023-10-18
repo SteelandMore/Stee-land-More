@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blackstone_slab"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:vertical_slab_blackstone",
+    "count": 1
+  }
+}

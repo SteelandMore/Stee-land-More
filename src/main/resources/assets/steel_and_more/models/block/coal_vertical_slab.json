@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/coal_vertical_slab",
+  "textures": {
+    "all": "steel_and_more:block/coal_block",
+    "particle": "steel_and_more:block/coal_block",
+    "2": "steel_and_more:block/coal_block"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "steel_and_more:block/pearlescent_froglight_slab"
+    },
+    "type=top": {
+      "model": "steel_and_more:block/pearlescent_froglight_slab_top"
+    },
+    "type=double": {
+      "model": "steel_and_more:block/pearlescent_froglight_slab_full"
+    }
+  }
+}

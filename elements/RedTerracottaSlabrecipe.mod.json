@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#14"
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#14"
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#14"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RedTerracottaSlab"
+    },
+    "name": "red_terracotta_slabrecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "steel_and_more:vertical_flowering_azalea_leaves_slab"
+  },
+  "result": "steel_and_more:flowering_azalea_leaves_slab"
+}

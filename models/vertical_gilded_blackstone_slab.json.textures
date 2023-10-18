@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "gilded_blackstone"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "1": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "2": {
+      "item": "minecraft:smooth_basalt"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:smooth_basalt_slab",
+    "count": 6
+  }
+}

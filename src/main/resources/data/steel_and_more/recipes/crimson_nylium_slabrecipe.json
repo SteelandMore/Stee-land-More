@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crimson_nylium"
+    },
+    "1": {
+      "item": "minecraft:crimson_nylium"
+    },
+    "2": {
+      "item": "minecraft:crimson_nylium"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:crimson_nylium_slab",
+    "count": 6
+  }
+}

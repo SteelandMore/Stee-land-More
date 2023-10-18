@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/stripped_birch_log",
+    "top": "steel_and_more:block/stripped_birch_log",
+    "side": "steel_and_more:block/stripped_birch_log"
+  },
+  "render_type": "solid"
+}

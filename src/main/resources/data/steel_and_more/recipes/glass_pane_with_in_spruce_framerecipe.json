@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 3,
+  "ingredient": {
+    "item": "steel_and_more:glass_with_in_spruce_frame"
+  },
+  "result": "steel_and_more:glass_with_spruce_frame"
+}

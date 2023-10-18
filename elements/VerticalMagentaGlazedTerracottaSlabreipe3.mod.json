@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:VerticalMagentaTerracottaSlab"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:VerticalMagentaGlazedTerracottaSlab"
+    },
+    "name": "vertical_magenta_glazed_terracotta_slabreipe_3",
+    "namespace": "mod"
+  }
+}

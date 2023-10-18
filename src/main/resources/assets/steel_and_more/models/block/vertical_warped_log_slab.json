@@ -1,0 +1,10 @@
+{
+  "parent": "steel_and_more:custom/vertical_warped_log_slab",
+  "textures": {
+    "all": "steel_and_more:block/warped_stem_top",
+    "particle": "steel_and_more:block/warped_stem_top",
+    "0": "steel_and_more:block/warped_stem",
+    "1": "steel_and_more:block/warped_stem_top"
+  },
+  "render_type": "solid"
+}

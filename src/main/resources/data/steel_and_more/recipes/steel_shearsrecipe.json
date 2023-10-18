@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "steel_and_more:steelingot"
+    },
+    "2": {
+      "item": "steel_and_more:steelingot"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:steel_shears",
+    "count": 1
+  }
+}

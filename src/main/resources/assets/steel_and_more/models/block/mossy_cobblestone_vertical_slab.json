@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/mossy_cobblestone_vertical_slab",
+  "textures": {
+    "all": "steel_and_more:block/mossy_cobblestone",
+    "particle": "steel_and_more:block/mossy_cobblestone",
+    "1": "steel_and_more:block/mossy_cobblestone"
+  },
+  "render_type": "solid"
+}

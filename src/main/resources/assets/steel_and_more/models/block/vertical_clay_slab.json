@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_clay_slab",
+  "textures": {
+    "all": "steel_and_more:block/clay",
+    "particle": "steel_and_more:block/clay",
+    "1": "steel_and_more:block/clay"
+  },
+  "render_type": "solid"
+}

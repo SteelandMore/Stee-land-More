@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "crimson_nylium",
+        "2": "crimson_nylium_side",
+        "3": "netherrack"
+      },
+      "name": "default"
+    }
+  }
+}

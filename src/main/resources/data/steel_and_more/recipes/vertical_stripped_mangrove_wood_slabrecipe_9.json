@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "steel_and_more:stripped_mangrove_log_slab"
+  },
+  "result": "steel_and_more:vertical_stripped_mangrovewood_slab"
+}

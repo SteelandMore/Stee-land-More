@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "steel_and_more:block/green_terracotta",
+    "top": "steel_and_more:block/green_terracotta",
+    "side": "steel_and_more:block/green_terracotta"
+  },
+  "render_type": "solid"
+}

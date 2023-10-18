@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:jungle_planks"
+    },
+    "3": {
+      "item": "minecraft:jungle_planks"
+    },
+    "4": {
+      "item": "minecraft:green_stained_glass"
+    },
+    "5": {
+      "item": "minecraft:jungle_planks"
+    },
+    "7": {
+      "item": "minecraft:jungle_planks"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:green_glass_with_in_jungle_frame",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:CyanGlassWithInBlackOakFrame"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:CyanGlassPaneWithInBlackOakFrame"
+    },
+    "name": "cyan_glass_pane_with_in_dark_oak_framereipe",
+    "namespace": "mod"
+  }
+}

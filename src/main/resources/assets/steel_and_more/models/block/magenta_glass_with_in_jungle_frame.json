@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "steel_and_more:block/magenta_glass_pane_with_in_jungle_frame",
+    "up": "steel_and_more:block/magenta_glass_pane_with_in_jungle_frame",
+    "north": "steel_and_more:block/magenta_glass_pane_with_in_jungle_frame",
+    "east": "steel_and_more:block/magenta_glass_pane_with_in_jungle_frame",
+    "south": "steel_and_more:block/magenta_glass_pane_with_in_jungle_frame",
+    "west": "steel_and_more:block/magenta_glass_pane_with_in_jungle_frame",
+    "particle": "steel_and_more:block/magenta_glass_pane_with_in_jungle_frame"
+  },
+  "render_type": "translucent"
+}

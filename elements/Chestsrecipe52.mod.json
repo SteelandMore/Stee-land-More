@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:VerticalMangroveWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMangroveWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMangroveWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMangroveWoodSlab"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:VerticalMangroveWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMangroveWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMangroveWoodSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalMangroveWoodSlab"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.CHEST"
+    },
+    "name": "chestsrecipe_52",
+    "namespace": "mod"
+  }
+}

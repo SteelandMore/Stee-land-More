@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:raw_copper_block"
+    },
+    "1": {
+      "item": "minecraft:raw_copper_block"
+    },
+    "2": {
+      "item": "minecraft:raw_copper_block"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:raw_copper_block_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "steel_and_more:block/snow_slab"
+    },
+    "type=top": {
+      "model": "steel_and_more:block/snow_slab_top"
+    },
+    "type=double": {
+      "model": "steel_and_more:block/snow_slab_full"
+    }
+  }
+}

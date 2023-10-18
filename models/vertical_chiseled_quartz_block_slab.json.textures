@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "chiseled_quartz_block_top",
+        "4": "chiseled_quartz_block"
+      },
+      "name": "default"
+    }
+  }
+}

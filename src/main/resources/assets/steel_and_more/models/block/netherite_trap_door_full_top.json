@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "steel_and_more:block/netherite_trapdoor_1",
+    "particle": "steel_and_more:block/netherite_trapdoor_1"
+  },
+  "render_type": "cutout"
+}

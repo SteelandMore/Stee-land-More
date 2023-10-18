@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": "crimson_planks"
+      },
+      "name": "default"
+    }
+  }
+}

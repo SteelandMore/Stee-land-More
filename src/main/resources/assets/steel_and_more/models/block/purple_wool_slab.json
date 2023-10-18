@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/purple_wool",
+    "top": "steel_and_more:block/purple_wool",
+    "side": "steel_and_more:block/purple_wool"
+  },
+  "render_type": "solid"
+}

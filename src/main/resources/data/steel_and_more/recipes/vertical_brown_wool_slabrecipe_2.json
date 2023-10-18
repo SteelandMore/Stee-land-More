@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "steel_and_more:brown_wool_slab"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:vertical_brown_wool_slab",
+    "count": 1
+  }
+}

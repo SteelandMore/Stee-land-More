@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "steel_and_more:block/red_wool_slab"
+    },
+    "type=top": {
+      "model": "steel_and_more:block/red_wool_slab_top"
+    },
+    "type=double": {
+      "model": "steel_and_more:block/red_wool_slab_full"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:purpur_pillar"
+    },
+    "1": {
+      "item": "minecraft:purpur_pillar"
+    },
+    "2": {
+      "item": "minecraft:purpur_pillar"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:vertical_purpur_pillar_slab",
+    "count": 6
+  }
+}

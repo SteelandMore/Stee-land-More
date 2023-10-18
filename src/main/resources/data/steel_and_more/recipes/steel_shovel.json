@@ -1,0 +1,24 @@
+{
+  "group": "steel_shovel",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "steel_and_more:steelingot"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:steel_shovel",
+    "count": 1
+  }
+}

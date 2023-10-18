@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/jungle_log_top",
+    "top": "steel_and_more:block/jungle_log_top",
+    "side": "steel_and_more:block/jungle_log"
+  },
+  "render_type": "solid"
+}

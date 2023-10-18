@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/mushroom_stem",
+    "top": "steel_and_more:block/mushroom_stem",
+    "side": "steel_and_more:block/mushroom_stem"
+  },
+  "render_type": "solid"
+}

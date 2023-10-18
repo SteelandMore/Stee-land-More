@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:birch_planks"
+    },
+    "3": {
+      "item": "minecraft:birch_planks"
+    },
+    "4": {
+      "item": "minecraft:red_stained_glass"
+    },
+    "5": {
+      "item": "minecraft:birch_planks"
+    },
+    "7": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:red_glass_with_in_birch_frame",
+    "count": 1
+  }
+}

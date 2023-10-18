@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mycelium_sidee",
+        "1": "mycelium_top",
+        "2": "dirt"
+      },
+      "name": "default"
+    }
+  }
+}

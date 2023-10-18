@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sea_lantern"
+    },
+    "1": {
+      "item": "minecraft:sea_lantern"
+    },
+    "2": {
+      "item": "minecraft:sea_lantern"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:sea_lantern_slab",
+    "count": 6
+  }
+}

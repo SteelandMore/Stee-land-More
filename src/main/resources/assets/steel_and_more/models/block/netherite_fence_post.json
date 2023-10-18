@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "steel_and_more:block/netherite_block",
+    "particle": "steel_and_more:block/netherite_block"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "steel_and_more:block/yellow_glass_pane_with_in_birch_frame",
+    "up": "steel_and_more:block/yellow_glass_pane_with_in_birch_frame",
+    "north": "steel_and_more:block/yellow_glass_pane_with_in_birch_frame",
+    "east": "steel_and_more:block/yellow_glass_pane_with_in_birch_frame",
+    "south": "steel_and_more:block/yellow_glass_pane_with_in_birch_frame",
+    "west": "steel_and_more:block/yellow_glass_pane_with_in_birch_frame",
+    "particle": "steel_and_more:block/yellow_glass_pane_with_in_birch_frame"
+  },
+  "render_type": "translucent"
+}

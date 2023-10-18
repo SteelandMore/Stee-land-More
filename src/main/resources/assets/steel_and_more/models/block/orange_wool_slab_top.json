@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "steel_and_more:block/orange_wool",
+    "top": "steel_and_more:block/orange_wool",
+    "side": "steel_and_more:block/orange_wool"
+  },
+  "render_type": "solid"
+}

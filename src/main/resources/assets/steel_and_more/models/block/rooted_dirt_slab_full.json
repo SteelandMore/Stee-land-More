@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/rooted_dirt",
+    "top": "steel_and_more:block/rooted_dirt",
+    "side": "steel_and_more:block/rooted_dirt"
+  },
+  "render_type": "solid"
+}

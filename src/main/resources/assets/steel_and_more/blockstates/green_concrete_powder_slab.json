@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "steel_and_more:block/green_concrete_powder_slab"
+    },
+    "type=top": {
+      "model": "steel_and_more:block/green_concrete_powder_slab_top"
+    },
+    "type=double": {
+      "model": "steel_and_more:block/green_concrete_powder_slab_full"
+    }
+  }
+}

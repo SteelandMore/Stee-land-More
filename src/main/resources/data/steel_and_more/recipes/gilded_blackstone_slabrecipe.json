@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gilded_blackstone"
+    },
+    "1": {
+      "item": "minecraft:gilded_blackstone"
+    },
+    "2": {
+      "item": "minecraft:gilded_blackstone"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:gilded_blackstone_slab",
+    "count": 6
+  }
+}

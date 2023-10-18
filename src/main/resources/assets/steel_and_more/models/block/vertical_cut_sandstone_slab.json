@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_cut_sandstone_slab",
+  "textures": {
+    "all": "steel_and_more:block/cut_sandstone",
+    "particle": "steel_and_more:block/cut_sandstone",
+    "1": "steel_and_more:block/cut_sandstone"
+  },
+  "render_type": "solid"
+}

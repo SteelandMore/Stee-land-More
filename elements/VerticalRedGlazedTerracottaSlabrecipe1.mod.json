@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.RED_GLAZED_TERRACOTTA"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:VerticalRedGlazedTerracottaSlab"
+    },
+    "name": "vertical_red_glazed_terracotta_slabrecipe_1",
+    "namespace": "mod"
+  }
+}

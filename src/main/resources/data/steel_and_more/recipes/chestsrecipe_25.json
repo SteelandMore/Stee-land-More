@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "steel_and_more:jungle_log_slab"
+    },
+    "1": {
+      "item": "steel_and_more:jungle_log_slab"
+    },
+    "2": {
+      "item": "steel_and_more:jungle_log_slab"
+    },
+    "3": {
+      "item": "steel_and_more:jungle_log_slab"
+    },
+    "5": {
+      "item": "steel_and_more:jungle_log_slab"
+    },
+    "6": {
+      "item": "steel_and_more:jungle_log_slab"
+    },
+    "7": {
+      "item": "steel_and_more:jungle_log_slab"
+    },
+    "8": {
+      "item": "steel_and_more:jungle_log_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:chest",
+    "count": 2
+  }
+}

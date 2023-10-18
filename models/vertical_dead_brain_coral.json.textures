@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "dead_brain_coral_block"
+      },
+      "name": "default"
+    }
+  }
+}

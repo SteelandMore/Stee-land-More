@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:snow_block"
+    },
+    "1": {
+      "item": "minecraft:snow_block"
+    },
+    "2": {
+      "item": "minecraft:snow_block"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:snow_slab",
+    "count": 6
+  }
+}

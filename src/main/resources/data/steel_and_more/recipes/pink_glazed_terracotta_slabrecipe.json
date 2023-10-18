@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:pink_glazed_terracotta"
+    },
+    "1": {
+      "item": "minecraft:pink_glazed_terracotta"
+    },
+    "2": {
+      "item": "minecraft:pink_glazed_terracotta"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:pink_glazed_terracotta_slab",
+    "count": 6
+  }
+}

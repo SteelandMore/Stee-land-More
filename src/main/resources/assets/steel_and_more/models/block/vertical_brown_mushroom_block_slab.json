@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_brown_mushroom_block_slab",
+  "textures": {
+    "all": "steel_and_more:block/brown_mushroom_block",
+    "particle": "steel_and_more:block/brown_mushroom_block",
+    "1": "steel_and_more:block/brown_mushroom_block"
+  },
+  "render_type": "solid"
+}

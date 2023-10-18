@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gravel"
+    },
+    "1": {
+      "item": "minecraft:gravel"
+    },
+    "2": {
+      "item": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:gravel_slab",
+    "count": 6
+  }
+}

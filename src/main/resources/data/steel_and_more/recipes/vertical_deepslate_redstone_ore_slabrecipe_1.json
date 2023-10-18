@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:deepslate_redstone_ore"
+  },
+  "result": "steel_and_more:vertical_deepslate_redstone_ore_slab"
+}

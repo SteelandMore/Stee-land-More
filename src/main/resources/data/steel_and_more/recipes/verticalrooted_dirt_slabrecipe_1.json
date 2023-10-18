@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:rooted_dirt"
+  },
+  "result": "steel_and_more:vertical_rooted_dirt_slab"
+}

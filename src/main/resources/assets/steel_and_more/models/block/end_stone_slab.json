@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/end_stone",
+    "top": "steel_and_more:block/end_stone",
+    "side": "steel_and_more:block/end_stone"
+  },
+  "render_type": "solid"
+}

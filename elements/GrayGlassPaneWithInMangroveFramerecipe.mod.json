@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 16,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GrayGlassWithInMangroveFrame"
+      },
+      {
+        "value": "CUSTOM:GrayGlassWithInMangroveFrame"
+      },
+      {
+        "value": "CUSTOM:GrayGlassWithInMangroveFrame"
+      },
+      {
+        "value": "CUSTOM:GrayGlassWithInMangroveFrame"
+      },
+      {
+        "value": "CUSTOM:GrayGlassWithInMangroveFrame"
+      },
+      {
+        "value": "CUSTOM:GrayGlassWithInMangroveFrame"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GrayGlassPaneWithInMangroveFrame"
+    },
+    "name": "gray_glass_pane_with_in_mangrove_framerecipe",
+    "namespace": "mod"
+  }
+}

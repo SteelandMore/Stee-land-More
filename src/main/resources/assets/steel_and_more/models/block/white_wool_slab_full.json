@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/white_wool",
+    "top": "steel_and_more:block/white_wool",
+    "side": "steel_and_more:block/white_wool"
+  },
+  "render_type": "solid"
+}

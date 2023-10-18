@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "redstone_block"
+      },
+      "name": "default"
+    }
+  }
+}

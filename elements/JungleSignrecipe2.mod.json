@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:JungleWoodSlab"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Items.JUNGLE_SIGN"
+    },
+    "name": "jungle_signrecipe_2",
+    "namespace": "mod"
+  }
+}

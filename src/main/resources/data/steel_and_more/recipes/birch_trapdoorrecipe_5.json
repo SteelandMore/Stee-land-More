@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "steel_and_more:birch_log_slab"
+  },
+  "result": "minecraft:birch_trapdoor"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "steel_and_more:block/magenta_glass_pane_with_in_acacia_frame",
+    "up": "steel_and_more:block/magenta_glass_pane_with_in_acacia_frame",
+    "north": "steel_and_more:block/magenta_glass_pane_with_in_acacia_frame",
+    "east": "steel_and_more:block/magenta_glass_pane_with_in_acacia_frame",
+    "south": "steel_and_more:block/magenta_glass_pane_with_in_acacia_frame",
+    "west": "steel_and_more:block/magenta_glass_pane_with_in_acacia_frame",
+    "particle": "steel_and_more:block/magenta_glass_pane_with_in_acacia_frame"
+  },
+  "render_type": "translucent"
+}

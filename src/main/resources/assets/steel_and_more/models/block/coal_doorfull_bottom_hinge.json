@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "steel_and_more:blocks/coal_block",
+    "top": "steel_and_more:blocks/coal_block"
+  }
+}

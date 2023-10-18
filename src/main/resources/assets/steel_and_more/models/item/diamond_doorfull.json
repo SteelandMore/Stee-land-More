@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "steel_and_more:item/diamonf_door_full"
+  },
+  "render_type": "translucent"
+}

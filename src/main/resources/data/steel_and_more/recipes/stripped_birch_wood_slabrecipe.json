@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stripped_birch_wood"
+    },
+    "1": {
+      "item": "minecraft:stripped_birch_wood"
+    },
+    "2": {
+      "item": "minecraft:stripped_birch_wood"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:stripped_birch_wood_slab",
+    "count": 6
+  }
+}

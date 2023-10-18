@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "steel_and_more:gray_glass_with_in_warped_frame"
+    },
+    "1": {
+      "item": "steel_and_more:gray_glass_with_in_warped_frame"
+    },
+    "2": {
+      "item": "steel_and_more:gray_glass_with_in_warped_frame"
+    },
+    "3": {
+      "item": "steel_and_more:gray_glass_with_in_warped_frame"
+    },
+    "4": {
+      "item": "steel_and_more:gray_glass_with_in_warped_frame"
+    },
+    "5": {
+      "item": "steel_and_more:gray_glass_with_in_warped_frame"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:gray_glass_pane_with_in_warped_frame",
+    "count": 16
+  }
+}

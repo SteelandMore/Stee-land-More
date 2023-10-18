@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "iron_slab_recipe",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:iron_block"
+  },
+  "result": "steel_and_more:iron_slab"
+}

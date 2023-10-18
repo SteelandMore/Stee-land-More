@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "jack-o-lantern",
+        "2": "pumpkin_side",
+        "4": "pumpkin_top"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:clay"
+    },
+    "1": {
+      "item": "minecraft:clay"
+    },
+    "2": {
+      "item": "minecraft:clay"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:clay_slab",
+    "count": 6
+  }
+}

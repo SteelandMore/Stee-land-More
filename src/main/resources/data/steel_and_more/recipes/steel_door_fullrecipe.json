@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "steel_and_more:steelingot"
+    },
+    "1": {
+      "item": "steel_and_more:steelingot"
+    },
+    "2": {
+      "item": "steel_and_more:steelingot"
+    },
+    "3": {
+      "item": "steel_and_more:steelingot"
+    },
+    "4": {
+      "item": "steel_and_more:steelingot"
+    },
+    "5": {
+      "item": "steel_and_more:steelingot"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:steel_door_full",
+    "count": 3
+  }
+}

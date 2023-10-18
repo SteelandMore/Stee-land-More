@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "steel_and_more:block/sand",
+    "top": "steel_and_more:block/sand",
+    "side": "steel_and_more:block/sand"
+  },
+  "render_type": "solid"
+}

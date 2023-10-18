@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:deepslate_emerald_ore"
+    },
+    "1": {
+      "item": "minecraft:deepslate_emerald_ore"
+    },
+    "2": {
+      "item": "minecraft:deepslate_emerald_ore"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:deepslate_emerald_ore_slab",
+    "count": 6
+  }
+}

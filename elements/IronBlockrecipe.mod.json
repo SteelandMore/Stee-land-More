@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 9.0,
+    "cookingTime": 800,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "Blocks.RAW_IRON_BLOCK"
+    },
+    "blastingReturnStack": {
+      "value": "Blocks.IRON_BLOCK"
+    },
+    "name": "iron_blockrecipe",
+    "namespace": "mod"
+  }
+}

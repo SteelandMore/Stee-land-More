@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_purple_wool_slab",
+  "textures": {
+    "all": "steel_and_more:block/purple_wool",
+    "particle": "steel_and_more:block/purple_wool",
+    "1": "steel_and_more:block/purple_wool"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:coals"
+    },
+    "1": {
+      "item": "steel_and_more:coal_stick"
+    },
+    "2": {
+      "tag": "minecraft:coals"
+    },
+    "3": {
+      "tag": "minecraft:coals"
+    },
+    "4": {
+      "item": "steel_and_more:coal_stick"
+    },
+    "5": {
+      "tag": "minecraft:coals"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:coal_fence",
+    "count": 3
+  }
+}

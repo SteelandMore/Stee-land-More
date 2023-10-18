@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:chiseled_red_sandstone"
+    },
+    "1": {
+      "item": "minecraft:chiseled_red_sandstone"
+    },
+    "2": {
+      "item": "minecraft:chiseled_red_sandstone"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:chiseled_red_sandstone_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:end_stone"
+    },
+    "1": {
+      "item": "minecraft:end_stone"
+    },
+    "2": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:vertical_end_stone_slab",
+    "count": 6
+  }
+}

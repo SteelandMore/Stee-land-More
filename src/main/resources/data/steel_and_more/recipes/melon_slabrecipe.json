@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:melon"
+    },
+    "1": {
+      "item": "minecraft:melon"
+    },
+    "2": {
+      "item": "minecraft:melon"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:melon_slab",
+    "count": 6
+  }
+}

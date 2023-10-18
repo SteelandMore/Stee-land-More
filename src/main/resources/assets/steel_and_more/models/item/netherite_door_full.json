@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "steel_and_more:item/netherite_door"
+  },
+  "render_type": "translucent"
+}

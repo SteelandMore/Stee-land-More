@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/birch_leaves",
+    "top": "steel_and_more:block/birch_leaves",
+    "side": "steel_and_more:block/birch_leaves"
+  },
+  "render_type": "translucent"
+}

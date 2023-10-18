@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "steel_and_more:steel_nugget"
+    },
+    "1": {
+      "item": "steel_and_more:steel_nugget"
+    },
+    "2": {
+      "item": "steel_and_more:steel_nugget"
+    },
+    "3": {
+      "item": "steel_and_more:steel_nugget"
+    },
+    "4": {
+      "item": "steel_and_more:steel_nugget"
+    },
+    "5": {
+      "item": "steel_and_more:steel_nugget"
+    },
+    "6": {
+      "item": "steel_and_more:steel_nugget"
+    },
+    "7": {
+      "item": "steel_and_more:steel_nugget"
+    },
+    "8": {
+      "item": "steel_and_more:steel_nugget"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:steelingot",
+    "count": 1
+  }
+}

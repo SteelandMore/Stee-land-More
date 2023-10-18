@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/bedrock",
+    "top": "steel_and_more:block/bedrock",
+    "side": "steel_and_more:block/bedrock"
+  },
+  "render_type": "solid"
+}

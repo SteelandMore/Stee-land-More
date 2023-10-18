@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/vertical_cut_copper_slab_1",
+  "textures": {
+    "all": "steel_and_more:block/cut_copper",
+    "particle": "steel_and_more:block/cut_copper",
+    "1": "steel_and_more:block/cut_copper"
+  },
+  "render_type": "solid"
+}

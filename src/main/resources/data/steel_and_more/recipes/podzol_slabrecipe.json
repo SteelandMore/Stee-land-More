@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:podzol"
+    },
+    "1": {
+      "item": "minecraft:podzol"
+    },
+    "2": {
+      "item": "minecraft:podzol"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:podzol_slab",
+    "count": 6
+  }
+}

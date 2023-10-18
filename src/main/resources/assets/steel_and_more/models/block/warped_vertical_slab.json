@@ -1,0 +1,9 @@
+{
+  "parent": "steel_and_more:custom/warped_vertical_slab",
+  "textures": {
+    "all": "steel_and_more:block/warped_planks",
+    "particle": "steel_and_more:block/warped_planks",
+    "2": "steel_and_more:block/warped_planks"
+  },
+  "render_type": "solid"
+}

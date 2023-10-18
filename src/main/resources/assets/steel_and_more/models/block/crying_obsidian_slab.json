@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/crying_obsidian",
+    "top": "steel_and_more:block/crying_obsidian",
+    "side": "steel_and_more:block/crying_obsidian"
+  },
+  "render_type": "solid"
+}
