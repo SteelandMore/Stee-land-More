@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "steel_and_more:brown_glass_pane_with_in_acacia_frame"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:charged_redstone_stairs",
+    "count": 1
+  }
+}

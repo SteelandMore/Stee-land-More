@@ -89036,6 +89036,20 @@
         ]
       },
       "path": "~/craft/vertical slab et slab/Slab"
+    },
+    {
+      "name": "Test",
+      "type": "recipe",
+      "sortid": 6025,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/steel_and_more/recipes/test.json"
+        ]
+      },
+      "path": "~/blocs"
     }
   ],
   "variable_elements": [],
