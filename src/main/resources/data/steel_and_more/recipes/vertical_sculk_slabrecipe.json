@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sculk"
+    },
+    "1": {
+      "item": "minecraft:sculk"
+    },
+    "2": {
+      "item": "minecraft:sculk"
+    }
+  },
+  "result": {
+    "item": "steel_and_more:vertical_sculk_slab",
+    "count": 6
+  }
+}

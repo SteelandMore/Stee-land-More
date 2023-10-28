@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "steel_and_more:vertical_honeycomb_blocks_slab"
+  },
+  "result": "steel_and_more:honeycomb_blocks_slab"
+}

@@ -889,6 +889,15 @@
       },
       {
         "value": "CUSTOM:VerticalWetSpongeSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalHayBlockSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalHoneycombBlocksSlab"
+      },
+      {
+        "value": "CUSTOM:VerticalSculkSlab"
       }
     ],
     "functions": [],

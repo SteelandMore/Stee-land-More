@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "steel_and_more:acacia_log_slab"
+    },
+    {
+      "item": "steel_and_more:vertical_acacia_log_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:acacia_log",
+    "count": 1
+  }
+}

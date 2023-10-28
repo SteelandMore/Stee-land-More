@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/hay_block_top",
+    "top": "steel_and_more:block/hay_block_top",
+    "side": "steel_and_more:block/hay_block_side"
+  },
+  "render_type": "solid"
+}

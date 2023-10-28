@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "steel_and_more:block/sculk",
+    "top": "steel_and_more:block/sculk",
+    "side": "steel_and_more:block/sculk"
+  },
+  "render_type": "solid"
+}

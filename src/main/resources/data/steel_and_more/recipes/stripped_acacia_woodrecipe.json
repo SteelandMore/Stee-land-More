@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "steel_and_more:stripped_acacia_wood_slab"
+    },
+    {
+      "item": "steel_and_more:vertical_stripped_acacia_wood_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stripped_acacia_wood",
+    "count": 1
+  }
+}

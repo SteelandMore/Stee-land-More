@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:crimson_slab"
+    },
+    {
+      "item": "steel_and_more:planks_crimson_vertical_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:crimson_planks",
+    "count": 1
+  }
+}
